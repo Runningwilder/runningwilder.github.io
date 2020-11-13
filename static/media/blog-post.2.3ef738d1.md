@@ -2,4 +2,4 @@
 
 #### 7 Октября, 2020
 
-Запустил сайт на реакте + спринге - [https://ссылки.net/](https://surveyeveryone.ddns.net/)
+Запустил сайт на реакте, спринге - [https://ссылки.net/](https://surveyeveryone.ddns.net/)
